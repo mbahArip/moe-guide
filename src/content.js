@@ -31,6 +31,7 @@ You can use moe coin to buy the videos.
 ## Moeli coin
 You can get several residue coin from daily login.
 Press this button every day to get the coin.
+![Daily login button](/img/coin-get.png)
 
 You can exchange the residue coin for moe coin by going into money page.
 You can click [萌币中心](https://moeli-desu.com/46-2/) button on the top of the page.
