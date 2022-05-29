@@ -29,6 +29,12 @@ You can use moe coin to buy the videos.
 ---
 
 ## Moeli coin
+AFAIK, there are 3 ways to get moe coin.
+1. Post a guide on forums
+2. Post paid video
+3. Daily login
+
+I don't know the details about the first 2 one since i never do it, but the third one is pretty simple.
 You can get several residue coin from daily login.
 Press this button every day to get the coin.
 ![Daily login button](/img/coin-get.png)
